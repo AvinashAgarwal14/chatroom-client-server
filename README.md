@@ -1,6 +1,6 @@
 # Client Server Chatroom
 
-## Running the appication locally:
+## Running the application locally:
 1. All the nodes must be connected to the same network.
 2. Download the files locally using `git clone https://github.com/AvinashAgarwal14/chatroom-client-server.git`.
 3. Run the server on the host machine using `python3 server.py [IP_ADDR] [PORT_NUM]`.
